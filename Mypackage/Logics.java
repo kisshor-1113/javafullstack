@@ -32,6 +32,6 @@ public class Logics {
 	System.out.println("the fact is"+fac);
 		
 	}
-    
+	 sc.close();
  }
 }	
